@@ -17,7 +17,7 @@
 
 ### Where to Reach Me 📌
 <div align="center">
-  <br>   
+  <br>    
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soup1997)](https://velog.io/@soup1997)   
   [![CV](https://img.shields.io/badge/-CV-orange?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/soup1997/Hyunseup-Jo-CV/blob/origin/HyunseupJo_CV.pdf)
